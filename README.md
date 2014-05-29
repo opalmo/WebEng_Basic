@@ -1,7 +1,7 @@
 WebEng_Basic
 ============
 
-Dieses Beispiel kann als Grundgerüst für die Implementierung der Praktikums-Aufgabe verwendet werden. Das Plugin wird über ein entsprechendes Toggle-Widget in der Toolbar aktiviert (vergl. Abbildung 1). Nach der Aktivierung werden Textbereiche, welche sich in einem p-Tag befinden, bei einer Mausberührung farblich hervorgehoben.  Mit der Tastenkombination Strg+1 wird der selektierte Textbereich durch einen beliebigen Text ersetzt.
+Dieses Beispiel kann als Grundgerüst für die Implementierung der Praktikums-Aufgabe verwendet werden. Das Plugin wird über ein entsprechendes Toggle-Widget in der Toolbar aktiviert. Nach der Aktivierung werden Textbereiche, welche sich in einem p-Tag befinden, bei einer Mausberührung farblich hervorgehoben.  Mit der Tastenkombination Strg+1 wird der selektierte Textbereich durch einen beliebigen Text ersetzt.
 
 Beschreibung
 ============
